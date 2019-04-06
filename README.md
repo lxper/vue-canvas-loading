@@ -1,4 +1,8 @@
 # vue-canvas-loading
+## Appearance
+
+![](http://129.204.88.180/wp-content/uploads/2019/04/loading.gif)
+
 ## Use
 ```javascript
 <template>
